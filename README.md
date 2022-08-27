@@ -7,8 +7,8 @@
 
 
 ### This repository is MCU DC Digital Voltmeter .
-This voltmeter can read-only DC voltage from 0-25 volt and Display . 
-
+This voltmeter can read-only DC voltage from 0-25 volt and Display on 4 Digit Seven Segment . 
+A voltage divider circuit is used to divide voltage into two parts to prevent more than 5 volts appearing across the MCU. because the MCU can not read voltage more than 5 volts directly.
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
 ---
