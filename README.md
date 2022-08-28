@@ -1,4 +1,4 @@
-# Bascom_avr-Voltmeter.2
+# Bascom_avr-Voltmeter
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
